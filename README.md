@@ -9,9 +9,10 @@
 ### To run the notebook
 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ```bash
 jupyter-notebook
 ```
+
